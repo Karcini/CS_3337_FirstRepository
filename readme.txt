@@ -1,0 +1,3 @@
+readme thing
+
+this is the stuff that makes our program run.
